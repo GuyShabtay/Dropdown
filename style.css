@@ -50,5 +50,13 @@ html,body{
 #navbar ul li:hover ul li:hover{
   background: #e0e0e0;
   color:inherit;
-  
+}
+#navbar ul li:hover ul li span{
+float:right;
+  color:white;
+  background: coral;
+  padding:0.2rem 0.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  border-radius: 5px;
 }
